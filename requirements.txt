@@ -3,7 +3,6 @@ langchain-groq
 faiss-cpu
 tiktoken
 langchain-community
-langchain-openai
 chromadb
 sentence-transformers
 pypdf
@@ -17,3 +16,8 @@ openpyxl
 unstructured
 msoffcrypto-tool
 jq
+matplotlib
+### embeddings
+langchain_huggingface
+sentence-transformers
+langchain-google-genai 
