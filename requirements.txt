@@ -21,3 +21,4 @@ matplotlib
 langchain_huggingface
 sentence-transformers
 langchain-google-genai 
+langchain-classic
